@@ -4,11 +4,11 @@
 
 > *01.* **변수** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/01.%20%EC%9E%90%EB%B0%94%20%EC%9E%85%EB%AC%B8/01.%20%EB%B3%80%EC%88%98%20(variable).md)
 
-> *02.* **연산자**
+> *02.* **연산자** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/01.%20%EC%9E%90%EB%B0%94%20%EC%9E%85%EB%AC%B8/02.%20%EC%97%B0%EC%82%B0%EC%9E%90%20(operator).md)
 
-> *03.* **조건문**
+> *03.* **조건문** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/01.%20%EC%9E%90%EB%B0%94%20%EC%9E%85%EB%AC%B8/03.%20%EC%A1%B0%EA%B1%B4%EB%AC%B8%20(conditional).md)
 
-> *04.* **반복문**
+> *04.* **반복문** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/01.%20%EC%9E%90%EB%B0%94%20%EC%9E%85%EB%AC%B8/04.%20%EB%B0%98%EB%B3%B5%EB%AC%B8%20(loop).md)
 
 > *05.* **스코프 & 형변환**
 
@@ -27,7 +27,7 @@
 ```java
 01. 빠른 코드 실행: ctrl + shift + F10
 02. 줄 전체 복사: ctrl + D
-
+03. 클래스명 수정: workspace에서 이름 변경 후 Alt + Enter  → "Rename File"
 ```
 <br>
 
