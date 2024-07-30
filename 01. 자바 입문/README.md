@@ -16,6 +16,7 @@
 
 > *07.* **메서드**
 
+> *+* **java 실습** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/tree/main/01.%20%EC%9E%90%EB%B0%94%20%EC%9E%85%EB%AC%B8/src)
 <br>
 
 ## 
