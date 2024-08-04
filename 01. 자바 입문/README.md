@@ -10,9 +10,9 @@
 
 > *04.* **반복문** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/01.%20%EC%9E%90%EB%B0%94%20%EC%9E%85%EB%AC%B8/04.%20%EB%B0%98%EB%B3%B5%EB%AC%B8%20(loop).md)
 
-> *05.* **스코프 & 형변환**
+> *05.* **스코프 & 형변환** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/01.%20%EC%9E%90%EB%B0%94%20%EC%9E%85%EB%AC%B8/05.%20%EC%8A%A4%EC%BD%94%ED%94%84(Scope)%20%26%20%ED%98%95%EB%B3%80%ED%99%98(Casting).md)
 
-> *06.* **배열**
+> *06.* **배열** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/01.%20%EC%9E%90%EB%B0%94%20%EC%9E%85%EB%AC%B8/06.%20%EB%B0%B0%EC%97%B4%20(Array).md)
 
 > *07.* **메서드**
 
@@ -55,5 +55,16 @@ soutm  // 현재 클래스와 메서드를 출력
 
 soutp  // 현재 메서드의 파라미터 이름과 값을 출력
 >> System.out.println("args = " + Arrays.toString(args));
+```
+<br>
+
+- `iter`
+> **향상된 for문**을 **생성**하는 IntelliJ의 명령어
+```java
+int[] numbers = {1,2,3,4,5,6}    // 배열 생성 후
+iter
+>> for (int value : numbers){
+    }
+
 ```
 <br>
