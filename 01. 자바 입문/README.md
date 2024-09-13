@@ -14,7 +14,7 @@
 
 > *06.* **배열** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/01.%20%EC%9E%90%EB%B0%94%20%EC%9E%85%EB%AC%B8/06.%20%EB%B0%B0%EC%97%B4%20(Array).md)
 
-> *07.* **메서드**
+> *07.* **메서드** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/01.%20%EC%9E%90%EB%B0%94%20%EC%9E%85%EB%AC%B8/07.%20%EB%A9%94%EC%84%9C%EB%93%9C%20(Method).md)
 
 > *+* **java 실습** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/tree/main/01.%20%EC%9E%90%EB%B0%94%20%EC%9E%85%EB%AC%B8/src)
 <br>
@@ -29,6 +29,8 @@
 01. 빠른 코드 실행: ctrl + shift + F10
 02. 줄 전체 복사: ctrl + D
 03. 클래스명 수정: workspace에서 이름 변경 후 Alt + Enter  → "Rename File"
+04. 메서드 위치로 이동: 메서드 이름 클릭 + ctrl + B
+05. 한번에 변수 변경: shift + F6
 ```
 <br>
 
