@@ -2,7 +2,8 @@
 
 **[ 목차 ]**
 
-> *01.* **클래스와 데이터** [ 🔍 ]()
+
+> *01.* **클래스와 데이터** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/02.%20%EC%9E%90%EB%B0%94%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/01.%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0.md)
 
 > *02.* **기본형과 참조형** [ 🔍 ]()
 
@@ -31,53 +32,3 @@
 ## 
 > [!TIP]
 > 🔆 **실무에 도움이 될 꿀팁 정리!**
-
-<!-->
-- `단축키 모음`
-> IntelliJ의 단축키
-```java
-01. 빠른 코드 실행: ctrl + shift + F10
-02. 줄 전체 복사: ctrl + D
-03. 클래스명 수정: workspace에서 이름 변경 후 Alt + Enter  → "Rename File"
-04. 메서드 위치로 이동: 메서드 이름 클릭 + ctrl + B
-05. 한번에 변수 변경: shift + F6
-```
-<br>
-
-- `psvm`
-> **main 구문**을 **생성**하는 IntelliJ의 명령어
-```java
-psvm 
->> public static void main(String[] args) { }
-
-```
-<br>
-
-- `sout`
-> **println 구문**을 **생성**하는 IntelliJ의 명령어
-```java
-sout 
->> System.out.println();
-
-soutv  // 가장 가까운 변수를 아래의 양식에 맞춰 출력
->> System.out.println("num1 = " + num1);
-
-soutm  // 현재 클래스와 메서드를 출력
->> System.out.println("VarEx1Question.main");
-
-soutp  // 현재 메서드의 파라미터 이름과 값을 출력
->> System.out.println("args = " + Arrays.toString(args));
-```
-<br>
-
-- `iter`
-> **향상된 for문**을 **생성**하는 IntelliJ의 명령어
-```java
-int[] numbers = {1,2,3,4,5,6}    // 배열 생성 후
-iter
->> for (int value : numbers){
-    }
-
-```
-<br>
--->
