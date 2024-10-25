@@ -7,9 +7,9 @@
 
 > *02.* **기본형과 참조형** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/02.%20%EC%9E%90%EB%B0%94%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/02.%20%EA%B8%B0%EB%B3%B8%ED%98%95%EA%B3%BC%20%EC%B0%B8%EC%A1%B0%ED%98%95.md)
 
-> *03.* **객체 지향 프로그래밍**
+> *03.* **객체 지향 프로그래밍** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/02.%20%EC%9E%90%EB%B0%94%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/03.%20%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
 
-> *04.* **생성자** 
+> *04.* **생성자** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/02.%20%EC%9E%90%EB%B0%94%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/04.%20%EC%83%9D%EC%84%B1%EC%9E%90.md)
 
 > *05.* **패키지** 
 
@@ -42,6 +42,7 @@
 03. 클래스명 수정: workspace에서 이름 변경 후 Alt + Enter  → "Rename File"
 04. 메서드 위치로 이동: 메서드 이름 클릭 + ctrl + B
 05. 한번에 변수 변경: shift + F6
-06. 반환 메서드 이름 자동 생성: Ctrl + Alt + V           (new)
+06. (new) 반환 메서드 이름 자동 생성: Ctrl + Alt + V   
+07. (new) 파라미터 정보: Ctrl + P   
 ```
 <br>
