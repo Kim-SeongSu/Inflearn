@@ -11,7 +11,7 @@
 
 > *04.* **생성자** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/02.%20%EC%9E%90%EB%B0%94%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/04.%20%EC%83%9D%EC%84%B1%EC%9E%90.md)
 
-> *05.* **패키지** 
+> *05.* **패키지**[ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/02.%20%EC%9E%90%EB%B0%94%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/05.%20%ED%8C%A8%ED%82%A4%EC%A7%80.md)
 
 > *06.* **접근 제어자** 
 
@@ -43,6 +43,7 @@
 04. 메서드 위치로 이동: 메서드 이름 클릭 + ctrl + B
 05. 한번에 변수 변경: shift + F6
 06. (new) 반환 메서드 이름 자동 생성: Ctrl + Alt + V   
-07. (new) 파라미터 정보: Ctrl + P   
+07. (new) 파라미터 정보: Ctrl + P
+08. (new) 생성자 자동 생성(Generate 기능): Alt + Insert 
 ```
 <br>
