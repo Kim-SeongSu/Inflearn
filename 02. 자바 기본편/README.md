@@ -13,9 +13,9 @@
 
 > *05.* **패키지**[ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/02.%20%EC%9E%90%EB%B0%94%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/05.%20%ED%8C%A8%ED%82%A4%EC%A7%80.md)
 
-> *06.* **접근 제어자** 
+> *06.* **접근 제어자** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/02.%20%EC%9E%90%EB%B0%94%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/06.%20%EC%A0%91%EA%B7%BC%20%EC%A0%9C%EC%96%B4%EC%9E%90.md)
 
-> *07.* **자바 메모리 구조와 static** 
+> *07.* **자바 메모리 구조와 static** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/02.%20%EC%9E%90%EB%B0%94%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/07.%20Java%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B5%AC%EC%A1%B0%EC%99%80%20static.md)
 
 > *08.* **final**
 
@@ -44,6 +44,8 @@
 05. 한번에 변수 변경: shift + F6
 06. (new) 반환 메서드 이름 자동 생성: Ctrl + Alt + V   
 07. (new) 파라미터 정보: Ctrl + P
-08. (new) 생성자 자동 생성(Generate 기능): Alt + Insert 
+08. (new) 생성자 자동 생성(Generate 기능): Alt + Insert
+09. (new) 단어 전체 선택: Ctrl + w
+10. (new) 오류 해결 제안: Alt + Enter
 ```
 <br>
