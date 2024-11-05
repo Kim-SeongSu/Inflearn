@@ -17,11 +17,11 @@
 
 > *07.* **자바 메모리 구조와 static** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/02.%20%EC%9E%90%EB%B0%94%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/07.%20Java%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B5%AC%EC%A1%B0%EC%99%80%20static.md)
 
-> *08.* **final**
+> *08.* **final** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/02.%20%EC%9E%90%EB%B0%94%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/08.%20final.md)
 
-> *09.* **상속** 
+> *09.* **상속** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/02.%20%EC%9E%90%EB%B0%94%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/09.%20%EC%83%81%EC%86%8D.md)
 
-> *10.* **다형성** 
+> *10.* **다형성** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/02.%20%EC%9E%90%EB%B0%94%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/10.%20%EB%8B%A4%ED%98%95%EC%84%B1.md)
 
 > *11.* **다형성과 설계** 
 
@@ -45,7 +45,11 @@
 06. (new) 반환 메서드 이름 자동 생성: Ctrl + Alt + V   
 07. (new) 파라미터 정보: Ctrl + P
 08. (new) 생성자 자동 생성(Generate 기능): Alt + Insert
-09. (new) 단어 전체 선택: Ctrl + w
+09. (new) 단어 전체 선택: Ctrl + W
 10. (new) 오류 해결 제안: Alt + Enter
+11. (new) Override: Ctrl + O
+12. (new) 참조 클래스 자동 완성: `new 클래스명` 까지 입력 후 Ctrl + Alt + V
+13. (new) 메서드 추출(extract): 메서드로 생성하고 싶은 영역 드래그 →  Ctrl + Alt + M → 메서드 이름 지정
+
 ```
 <br>
