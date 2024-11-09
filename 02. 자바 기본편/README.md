@@ -2,7 +2,6 @@
 
 **[ 목차 ]**
 
-
 > *01.* **클래스와 데이터** [🔍](https://github.com/Kim-SeongSu/Inflearn/blob/main/02.%20%EC%9E%90%EB%B0%94%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/01.%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0.md)
 
 > *02.* **기본형과 참조형** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/02.%20%EC%9E%90%EB%B0%94%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/02.%20%EA%B8%B0%EB%B3%B8%ED%98%95%EA%B3%BC%20%EC%B0%B8%EC%A1%B0%ED%98%95.md)
@@ -51,3 +50,8 @@
 
 ```
 <br>
+
+**[ 수료 ]**
+![image](https://github.com/user-attachments/assets/67dfb4cb-2cf1-4506-b782-24e18b420e92)
+
+
