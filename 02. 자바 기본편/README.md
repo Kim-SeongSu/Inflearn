@@ -23,8 +23,6 @@
 
 > *10.* **다형성** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/blob/main/02.%20%EC%9E%90%EB%B0%94%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/10.%20%EB%8B%A4%ED%98%95%EC%84%B1.md)
 
-> *11.* **다형성과 설계** 
-
 > *+* **java 실습** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/tree/main/02.%20%EC%9E%90%EB%B0%94%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/src)
 <br>
 
