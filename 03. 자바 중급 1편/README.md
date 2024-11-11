@@ -4,7 +4,7 @@
 
 > *01.* **Object 클래스** [🔍](https://github.com/Kim-SeongSu/Inflearn/blob/main/03.%20%EC%9E%90%EB%B0%94%20%EC%A4%91%EA%B8%89%201%ED%8E%B8/01.%20Object%20%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 
-> *02.* **불변 객체** 
+> *02.* **불변 객체** [🔍](https://github.com/Kim-SeongSu/Inflearn/blob/main/03.%20%EC%9E%90%EB%B0%94%20%EC%A4%91%EA%B8%89%201%ED%8E%B8/02.%20%EB%B6%88%EB%B3%80%20%EA%B0%9D%EC%B2%B4.md)
 
 > *03.* **래퍼, Class 클래스** 
 
@@ -35,9 +35,10 @@
 06. 반환 메서드 이름 자동 생성: Ctrl + Alt + V   
 07. 파라미터 정보: Ctrl + P
 08. Generate 기능: Alt + Insert
-    - 생성자 자동 생성
+    - Constructor (생성자) 자동 생성
     - (new) toString() 자동 생성
-    - (new) equals 자동 생성
+    - (new) equals() 자동 생성
+    - (new) Setter / Getter / Getter and Setter 자동 생성
 09. 단어 전체 선택: Ctrl + W
 10. 오류 해결 제안: Alt + Enter
 11. Override: Ctrl + O
