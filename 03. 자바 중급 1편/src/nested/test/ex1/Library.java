@@ -30,11 +30,22 @@ public class Library {
     }
 
     public void addBook(String title, String author) {
-        if (cnt < bookList.length) {
+        /*
+          if (cnt < bookList.length) {
             bookList[cnt++] = new Book(title, author);
         } else {
             System.out.println("도서관 저장 공간이 부족합니다.");
         }
+         */
+        // 추천하는 처리 방법
+        // 검증 로직 처리 후
+        if (cnt >= bookList.length) {
+            System.out.println("도서관 저장 공간이 부족합니다.");
+            return;
+        }
+
+        // 정상 로직 처리
+        bookList[cnt++] = new Book(title, author);
     }
 
     public void showBooks() {
