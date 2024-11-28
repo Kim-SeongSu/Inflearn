@@ -12,11 +12,11 @@
 
 > *05.* **열거형 - ENUM** [🔍](https://github.com/Kim-SeongSu/Inflearn/blob/main/03.%20%EC%9E%90%EB%B0%94%20%EC%A4%91%EA%B8%89%201%ED%8E%B8/05.%20%EC%97%B4%EA%B1%B0%ED%98%95%20-%20ENUM.md)
 
-> *06.* **날짜와 시간**
+> *06.* **날짜와 시간** [🔍](https://github.com/Kim-SeongSu/Inflearn/blob/main/03.%20%EC%9E%90%EB%B0%94%20%EC%A4%91%EA%B8%89%201%ED%8E%B8/06.%20%EB%82%A0%EC%A7%9C%EC%99%80%20%EC%8B%9C%EA%B0%84.md)
 
-> *07.* **중첩 클래스, 내부 클래스** 
+> *07.* **중첩 클래스, 내부 클래스** [🔍](https://github.com/Kim-SeongSu/Inflearn/blob/main/03.%20%EC%9E%90%EB%B0%94%20%EC%A4%91%EA%B8%89%201%ED%8E%B8/07.%20%EC%A4%91%EC%B2%A9%20%ED%81%B4%EB%9E%98%EC%8A%A4%2C%20%EB%82%B4%EB%B6%80%20%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 
-> *08.* **예외 처리** 
+> *08.* **예외 처리** [🔍](https://github.com/Kim-SeongSu/Inflearn/blob/main/03.%20%EC%9E%90%EB%B0%94%20%EC%A4%91%EA%B8%89%201%ED%8E%B8/08.%20%EC%98%88%EC%99%B8%20%EC%B2%98%EB%A6%AC.md)
 
 > *+* **java 실습** [ 🔍 ](https://github.com/Kim-SeongSu/Inflearn/tree/main/03.%20%EC%9E%90%EB%B0%94%20%EC%A4%91%EA%B8%89%201%ED%8E%B8/src)
 <br>
@@ -51,3 +51,4 @@
 <br>
 
 **[ 수료 ]**
+![image](https://github.com/user-attachments/assets/fc5951e8-e263-42e0-8261-3863080b7436)
