@@ -6,9 +6,9 @@
 
 > *02.* **컬렉션 프레임워크 - ArrayList** [🔍](https://github.com/Kim-SeongSu/Inflearn/blob/main/04.%20%EC%9E%90%EB%B0%94%20%EC%A4%91%EA%B8%89%202%ED%8E%B8/02.%20%EC%BB%AC%EB%A0%89%EC%85%98%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20-%20ArrayList.md)  
 
-> *03.* **컬렉션 프레임워크 - LinkedList** 
+> *03.* **컬렉션 프레임워크 - LinkedList** [🔍](https://github.com/Kim-SeongSu/Inflearn/blob/main/04.%20%EC%9E%90%EB%B0%94%20%EC%A4%91%EA%B8%89%202%ED%8E%B8/03.%20%EC%BB%AC%EB%A0%89%EC%85%98%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20-%20LinkedList.md)
 
-> *04.* **컬렉션 프레임워크 - List** 
+> *04.* **컬렉션 프레임워크 - List** [🔍](https://github.com/Kim-SeongSu/Inflearn/blob/main/04.%20%EC%9E%90%EB%B0%94%20%EC%A4%91%EA%B8%89%202%ED%8E%B8/04.%20%EC%BB%AC%EB%A0%89%EC%85%98%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20-%20List.md)
 
 > *05.* **컬렉션 프레임워크 - 해시(Hash)** 
 
@@ -39,13 +39,14 @@
 08. Generate 기능: Alt + Insert
     - Constructor (생성자) 자동 생성
     - toString() 자동 생성
-    - equals() 자동 생성
+    - equals() / equals() and hashCode 자동 생성
     - Setter / Getter (get 입력 후 선택 가능) / Getter and Setter 자동 생성
 09. 단어 전체 선택: Ctrl + W
 10. Override: Ctrl + O
 11. 메서드 추출(extract): 메서드로 생성하고 싶은 영역 드래그 →  Ctrl + Alt + M → 메서드 이름 지정
 12. Inline Variable (변수 & 코드 합치기): Ctrl + Alt + N
 13. (new) 메서드 위치 바꾸기: Ctrl + Shift + 방향키 (위, 아래)
+13. (new) 오류 위치로 이동: F2
 ```
 <br>
 
