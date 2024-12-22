@@ -51,3 +51,4 @@
 <br>
 
 **[ 수료 ]**
+![image](https://github.com/user-attachments/assets/c2e06bb7-9606-4560-b02f-5b2314ff865a)
