@@ -10,13 +10,13 @@
 
 > *04.* **컬렉션 프레임워크 - List** [🔍](https://github.com/Kim-SeongSu/Inflearn/blob/main/04.%20%EC%9E%90%EB%B0%94%20%EC%A4%91%EA%B8%89%202%ED%8E%B8/04.%20%EC%BB%AC%EB%A0%89%EC%85%98%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20-%20List.md)
 
-> *05.* **컬렉션 프레임워크 - 해시(Hash)** 
+> *05.* **컬렉션 프레임워크 - HashSet** [🔍](https://github.com/Kim-SeongSu/Inflearn/blob/main/04.%20%EC%9E%90%EB%B0%94%20%EC%A4%91%EA%B8%89%202%ED%8E%B8/05.%20%EC%BB%AC%EB%A0%89%EC%85%98%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20-%20HashSet.md)
 
-> *06.* **컬렉션 프레임워크 - HashSet** 
+> *06.* **컬렉션 프레임워크 - Set** [🔍](https://github.com/Kim-SeongSu/Inflearn/blob/main/04.%20%EC%9E%90%EB%B0%94%20%EC%A4%91%EA%B8%89%202%ED%8E%B8/06.%20%EC%BB%AC%EB%A0%89%EC%85%98%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20-%20Set.md)
 
-> *07.* **컬렉션 프레임워크 - Map, Stack, Queue** 
+> *07.* **컬렉션 프레임워크 - Map, Stack, Queue** [🔍](https://github.com/Kim-SeongSu/Inflearn/blob/main/04.%20%EC%9E%90%EB%B0%94%20%EC%A4%91%EA%B8%89%202%ED%8E%B8/07.%20%EC%BB%AC%EB%A0%89%EC%85%98%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20-%20Map%2C%20Stack%2C%20Queue.md)
 
-> *08.* **컬렉션 프레임워크 - 순회, 정렬, 컬렉션 유틸** 
+> *08.* **컬렉션 프레임워크 - 순회, 정렬, 컬렉션 유틸** [🔍](https://github.com/Kim-SeongSu/Inflearn/blob/main/04.%20%EC%9E%90%EB%B0%94%20%EC%A4%91%EA%B8%89%202%ED%8E%B8/08.%20%EC%BB%AC%EB%A0%89%EC%85%98%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20-%20%EC%88%9C%ED%9A%8C%2C%20%EC%A0%95%EB%A0%AC%2C%20%EC%BB%AC%EB%A0%89%EC%85%98%20%EC%9C%A0%ED%8B%B8.md)
 
 ##
 
