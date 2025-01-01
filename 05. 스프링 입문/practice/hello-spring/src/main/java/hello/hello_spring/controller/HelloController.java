@@ -6,7 +6,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-@Controller
+// 컴포넌트 스캔으로 스프링 빈 등록
+//@Controller
 public class HelloController {
     @GetMapping("hello")
     public String hello(Model model) {

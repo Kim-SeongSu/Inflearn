@@ -2,10 +2,12 @@ package hello.hello_spring.repository;
 
 
 import hello.hello_spring.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 
 // implements MemberRepository까지 입력 후, alt + enter로 implement method 불러오기
+//@Repository   //직접 스프링 빈 등록을 위해 주석처리
 public class MemoryMemberRepository implements MemberRepository{
     private static Map<Long, Member> store = new HashMap<>();
     private static long sequence = 0L;
