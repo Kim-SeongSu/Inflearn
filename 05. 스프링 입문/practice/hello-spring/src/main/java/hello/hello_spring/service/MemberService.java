@@ -5,6 +5,7 @@ import hello.hello_spring.repository.MemberRepository;
 import hello.hello_spring.repository.MemoryMemberRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 import java.util.Optional;
@@ -12,6 +13,7 @@ import java.util.Optional;
 
 // 컴포넌트 스캔으로 스프링 빈 등록
 //@Service  //직접 스프링 빈 등록을 위해 주석처리
+@Transactional
 public class MemberService {
     //private final MemberRepository memberRepository = new MemoryMemberRepository();
 
