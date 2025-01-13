@@ -14,10 +14,12 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 // DI 컨테이너
-@Configuration
+//@Configuration
 public class AppConfig {
 
     /*
+    // web 실습을 위해 주석처리 (AutoAppConfig로 실행)
+
     // 중복이 있고 역할에 따른 구현이 잘 안보이는 단점이 있음
     public MemberService memberService() {
         return new MemberServiceImpl(new MemoryMemberRepository());
@@ -28,6 +30,7 @@ public class AppConfig {
     }
      */
 
+    /*
     // Refactoring - 기대하는 그림(3장. 15p)에 맞춰서 표현
     @Bean
     public MemberRepository memberRepository() {
@@ -52,4 +55,5 @@ public class AppConfig {
 //        return new FixDiscountPolicy();
         return new RateDiscountPolicy();
     }
+     */
 }
