@@ -52,3 +52,8 @@
 15. [스프링] 테스트 생성: Ctrl + shift + T
 ```
 <br>
+
+**[ 수료 ]**
+
+![image](https://github.com/user-attachments/assets/028bd421-4d4c-43f2-9104-3078d2b605ea)
+
