@@ -124,5 +124,6 @@
 <br>
 
 **[ 수료 ]**
+![image](https://github.com/user-attachments/assets/92a2a349-16f1-40dd-a1fb-1ac0921814e7)
 
 
