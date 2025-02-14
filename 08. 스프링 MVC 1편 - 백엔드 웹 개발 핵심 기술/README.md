@@ -2,7 +2,7 @@
 
 **[ 목차 ]**
 
-> *01.* **웹 애플리케이션 이해** [🔍]()
+> *01.* **웹 애플리케이션 이해** [🔍](https://github.com/Kim-SeongSu/Inflearn/blob/main/08.%20%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%201%ED%8E%B8%20-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%95%B5%EC%8B%AC%20%EA%B8%B0%EC%88%A0/01.%20%EC%9B%B9%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%9D%B4%ED%95%B4.md)
 
 > *02.* **서블릿** [🔍]()
 
